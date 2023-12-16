@@ -1,0 +1,166 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    background-color: aquamarine;
+}
+#heading
+{
+margin-left:25%;
+margin-right:25%;
+width:50%;
+padding:20px;
+border:10px solid black;
+text-align: center;
+justify-content: center;
+margin-top:20px;
+margin-bottom:20px;
+}
+.inp{
+    width:50%;
+    margin-left:25%;
+margin-right:25%;
+padding:20px;
+border:10px solid black;
+text-align: center;
+justify-content: center;
+margin-top:20px;
+margin-bottom:20px;
+display: block;
+}
+.inputbox
+{
+    padding:20px;
+    border:10px solid black;
+    text-align: center;
+    justify-content: center;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left :10%;  
+    margin-right :10%;  
+}
+#ele
+{
+    display:none;
+}
+/*
+.matrix
+{
+    background-color: rgb(167, 158, 232);
+    border: 3px solid rgb(104, 2, 7);
+    margin:20px;
+    display: flex;
+    flex-direction: row;
+    padding:10px;
+    height:650px;
+    justify-content: center;
+    text-align: center;
+    -ms-flex-align: center;
+   
+    
+} 
+
+.matrix1
+{
+    background-color: grey;
+    border: 3px solid black;
+    width:90%;
+    height:80%;
+    display: flex;
+   
+    flex-flow: row wrap;
+    padding:5%;
+    padding-top: 5%;
+    margin:2% ;
+    margin-right:5%;
+
+}
+
+.matrix2
+{
+    background-color: grey;
+    border: 3px solid black;
+    width:90%;
+    height:80%;
+    display: flex;
+    flex-flow: row wrap;
+    padding:5%;
+    padding-top: 5%;
+    margin:2% ;
+    margin-right:5%;
+ 
+}
+.mat1
+{
+    background-color: rgb(182, 205, 139);
+    border: 3px solid black;
+    width:50%;
+    height:80%;
+    display: flex;
+    flex-direction: column;
+    margin:5%;
+    flex-flow: column wrap;
+    flex-wrap: nowrap;
+    padding: 2%;
+    justify-content: center;
+
+}
+.mat2
+{
+    background-color: rgb(184, 239, 202);
+    border: 3px solid black;
+    width:50%;
+    height:80%;
+    display: flex;
+    flex-direction: column;
+   margin:5%;
+    flex-flow: column wrap;
+    flex-wrap: nowrap;
+    padding: 2%;
+    justify-content: center;
+   
+}
+.box
+{
+    background-color: rgb(231, 73, 73);
+    border:1px solid black;
+    width:19%;  
+    height:20%;
+    gap: 0px;
+   
+}*/
+/*
+@media only screen and (max-width: 658px) 
+{
+    .matrix
+    {
+      flex-direction: column;
+      width:100%;
+    }
+    .matrix1
+    {
+        width:90%;
+    }
+    .matrix2
+    {
+        width:90%;
+    }
+}
+
+.toce
+{
+    justify-content: center;
+    text-align: center;
+   margin-left:40%;
+   margin-right:40%;
+   margin-top:20px;
+   margin-bottom:20px;
+   border-radius: 2px solid green;
+   background-color: rgb(209, 210, 140);
+    padding:10px;
+    font-size: medium;
+    font-weight: 200;
+    width:20%;
+    height:100px;
+    border-radius: 20px;
+}*/
