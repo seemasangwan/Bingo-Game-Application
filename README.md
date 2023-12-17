@@ -1,8 +1,8 @@
 # bingogame
-# overview 
+## overview 
 I created a fun online game for two players using HTML, CSS, and JavaScript. The game involves a strategic challenge where players input numbers into a 5x5 grid.
 
-# what i did
+## what i did
 I built the look and feel of the game using HTML and made it look nice with CSS.
 I made the game work using JavaScript, deciding when it's each player's turn and managing the game rules.
 I added a cool feature to randomly pick which player goes first.
