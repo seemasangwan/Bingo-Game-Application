@@ -32,3 +32,11 @@ Constructed the visual elements of the game using HTML and enhanced its appearan
  Responsive design to optimize user experience across devices.
  
  ![Screenshot 2023-12-17 145230](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/c82b0331-0cd8-4bea-8ddc-1f537f503e65)
+
+ ![Screenshot 2023-12-17 145422](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/5e7abbe6-8380-4c39-8e71-21d880272128)
+![Screenshot 2023-12-17 145537](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/91cd6cb4-1ddc-4e78-ba77-8c21f5b0ee25)
+![Screenshot 2023-12-17 145605](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/97033e65-e7f9-49fc-b9b1-e19bea1f711a)
+![Screenshot 2023-12-17 145627](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/c74b63bc-6901-4dc7-ae21-d8816096b76b)
+![Screenshot 2023-12-17 145657](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/f6bc194d-1eb0-4877-b79d-3a158807a47b)
+![Screenshot 2023-12-17 145820](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/65bb97c0-61b8-47ad-956f-1db136fc5e33)
+
