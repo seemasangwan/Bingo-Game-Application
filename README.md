@@ -30,3 +30,5 @@ Constructed the visual elements of the game using HTML and enhanced its appearan
  Skillful use of CSS for styling and layout design.
  Strong JavaScript expertise for implementing game logic and interactions.
  Responsive design to optimize user experience across devices.
+ 
+ ![Screenshot 2023-12-17 145230](https://github.com/seemasangwan/Bingo-Game-Application/assets/104920728/c82b0331-0cd8-4bea-8ddc-1f537f503e65)
