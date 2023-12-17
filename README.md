@@ -16,13 +16,17 @@ I'm also good at making sure the game works well on different devices.
 This project shows that I can build something cool and solve problems. It's a good example of my skills in web development.
 ## Key Contributions and Responsibilities:
 
-### Front-End Development: Constructed the visual elements of the game using HTML and enhanced its appearance with CSS.
- ### Dynamic Game Logic: Implemented game rules and player turns using JavaScript, ensuring a responsive and interactive experience.
- ### Coin Toss Feature: Introduced a randomized coin toss mechanism to determine the starting player's turn, adding an element of unpredictability.
- ### Winner Determination: Developed functions to check for winning conditions in the matrices and displayed victory messages accordingly.
+### Front-End Development:
+Constructed the visual elements of the game using HTML and enhanced its appearance with CSS.
+ ### Dynamic Game Logic: 
+ Implemented game rules and player turns using JavaScript, ensuring a responsive and interactive experience.
+ ### Coin Toss Feature: 
+ Introduced a randomized coin toss mechanism to determine the starting player's turn, adding an element of unpredictability.
+ ### Winner Determination:
+ Developed functions to check for winning conditions in the matrices and displayed victory messages accordingly.
  ## Technical Skills Demonstrated:
 
-### Proficiency in HTML for web page structure.
-### Skillful use of CSS for styling and layout design.
-### Strong JavaScript expertise for implementing game logic and interactions.
-### Responsive design to optimize user experience across devices.
+ Proficiency in HTML for web page structure.
+ Skillful use of CSS for styling and layout design.
+ Strong JavaScript expertise for implementing game logic and interactions.
+ Responsive design to optimize user experience across devices.
