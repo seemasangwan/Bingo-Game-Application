@@ -1,4 +1,4 @@
-# Bingo Game
+# Bingo-Game-Application
 ## overview 
 I created a fun online game for two players using HTML, CSS, and JavaScript. The game involves a strategic challenge where players input numbers into a 5x5 grid.
 
